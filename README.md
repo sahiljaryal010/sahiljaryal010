@@ -86,7 +86,7 @@
 
 ### <span style="color:#C8A3C0">GitHub Stats & Activity</span>
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urssanjaysingh&show_icons=true&locale=en&layout=compact&title_color=000000&text_color=000000&bg_color=D9BED1" alt="Top Languages"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljaryal010&show_icons=true&locale=en&layout=compact&title_color=000000&text_color=000000&bg_color=D9BED1" alt="Top Languages"/> 
 </div>
 
 <div align="center">
@@ -96,19 +96,19 @@
 ### <span style="color:#C8A3C0">Resume</span>
 
 <a href="" download>
-  <img src="https://img.shields.io/badge/Download-Resume-D9BED1?style=for-the-badge&logo=google-drive&logoColor=ffffff" alt="Download Resume"/>
+  <img src="https://img.shields.io/badge/Download-Resume-D9BED1?style=for-the-badge&logo=google-driv&logoColor=ffffff" alt="Download Resume"/>
 </a>
 </div>
 
 ### <span style="color:#C8A3C0">Connect with me</span>
 
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/sahil-rajput-029920278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-D9BED1?logo=linkedin&logoColor=000000" alt="LinkedIn" height="25"/>
 </a>
-<a href="" target="_blank">
+<a href="https://github.com/sahiljaryal010" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-D9BED1?logo=github&logoColor=000000" alt="GitHub" height="25"/>
 </a>
-<a href="" target="_blank">
+<a href="https://rajputsahil.netlify.app/" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-D9BED1?logo=firefox&logoColor=000000" alt="Portfolio" height="25"/>
 </a>
 <a href="" target="_blank">
