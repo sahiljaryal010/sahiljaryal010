@@ -68,16 +68,16 @@
 
 ![React Native](https://img.shields.io/badge/React_Native-D9BED1?style=for-the-badge&logo=react&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/Next.js-D9BED1?style=for-the-badge&logo=next.js&logoColor=000000)
-![DSA with C++](https://img.shields.io/badge/DSA-C%2B%2B-D9BED1?style=for-the-badge&logoColor=000000)
+
 </div>
 
 <div align="center">
 
 ### <span style="color:#C8A3C0">Publications</span>
-  <a href="https://medium.com/@sanjaysingh26112000" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Medium-D9BED1?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium">
   </a>
-  <a href="https://dev.to/urssanjaysingh" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-D9BED1?style=for-the-badge&logo=dev.to&logoColor=000000" alt="Dev.to">
   </a>
 </div>
@@ -95,26 +95,26 @@
 
 ### <span style="color:#C8A3C0">Resume</span>
 
-<a href="https://drive.google.com/file/d/1H5L207e_BHo3AAvhlLNgR5X971xxdiK3/view?usp=sharing" download>
+<a href="" download>
   <img src="https://img.shields.io/badge/Download-Resume-D9BED1?style=for-the-badge&logo=google-drive&logoColor=ffffff" alt="Download Resume"/>
 </a>
 </div>
 
 ### <span style="color:#C8A3C0">Connect with me</span>
 
-<a href="https://www.linkedin.com/in/urssanjaysingh/" target="_blank">
+<a href="" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-D9BED1?logo=linkedin&logoColor=000000" alt="LinkedIn" height="25"/>
 </a>
-<a href="https://github.com/urssanjaysingh" target="_blank">
+<a href="" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-D9BED1?logo=github&logoColor=000000" alt="GitHub" height="25"/>
 </a>
-<a href="https://urssanjaysingh.github.io/" target="_blank">
+<a href="" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-D9BED1?logo=firefox&logoColor=000000" alt="Portfolio" height="25"/>
 </a>
-<a href="https://medium.com/@urssanjaysingh" target="_blank">
+<a href="" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/Medium-D9BED1?logo=medium&logoColor=000000" alt="Medium" height="25"/>
 </a>
-<a href="https://dev.to/urssanjaysingh" target="_blank">
+<a href="" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/DEV-D9BED1?logo=dev.to&logoColor=000000" alt="Dev.to" height="25"/>
 </a>
 
