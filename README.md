@@ -66,7 +66,7 @@
 
 ### <span style="color:#C8A3C0">Currently Learning / Exploring</span>
 
-![React Native](https://img.shields.io/badge/React_Native-D9BED1?style=for-the-badge&logo=react&logoColor=000000)
+![Type Script](https://img.shields.io/badge/React_Native-D9BED1?style=for-the-badge&logo=react&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/Next.js-D9BED1?style=for-the-badge&logo=next.js&logoColor=000000)
 
 </div>
@@ -95,7 +95,7 @@
 
 ### <span style="color:#C8A3C0">Resume</span>
 
-<a href="https://drive.google.com/file/d/167kBcpt2aorD5LG6pvkbgV48t2S17LuW/view?usp=drivesdk" download>
+<a href="https://drive.google.com/file/d/1DCTTffAekFZdQEw81dgMq_Nj3Igl6JUL/view?usp=drivesdk" download>
   <img src="https://img.shields.io/badge/Download-Resume-D9BED1?style=for-the-badge&logo=google-driv&logoColor=ffffff" alt="Download Resume"/>
 </a>
 </div>
